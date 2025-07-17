@@ -14,29 +14,22 @@ This project is a front-end clone of Google’s iconic homepage — but with a *
 
 - **HTML5**
 - **CSS3**
-- No frameworks, just pure frontend fun!
+- No frameworks — just pure frontend fun!
 
 ## 📁 Folder Structure
 
 GoogleClone/
-├── public_html/
-│ ├── index.html
+├── css/
 │ └── style.css
+├── index.html
 ├── README.md
 
 ## 🎨 Features
 
-- Fully responsive design (works well on desktops and mobile)
+- Fully responsive design (desktop & mobile)
 - Vibrant rainbow color scheme
-- Simple and smooth layout
 - Custom styled search bar and buttons
 - Lightweight and fast
-
-## 📸 Preview
-
-![GoogleClone Screenshot](https://raw.githubusercontent.com/bhekitshabalala/GoogleClone/main/screenshot.png)
-
-*(You can add your own screenshot.png inside the repo to activate this)*
 
 ## 🧠 Why This Project?
 
@@ -50,19 +43,17 @@ This clone was built to:
 
 This site is hosted using **GitHub Pages**. To deploy:
 
-1. Push the latest version to the `main` or `master` branch
-2. Go to `Settings > Pages`
+1. Push the latest version to the `main` branch
+2. Go to **Settings > Pages**
 3. Set the source to `main` and the root folder
-4. Wait for GitHub to build your site!
+4. Wait for GitHub to build and publish your site!
 
 ## 📬 Contact
 
 Created with ❤️ by **Bheki Tshabalala**  
-📧 bheki@example.com  
-🌐 [LinkedIn](#) | [GitHub](https://github.com/bhekitshabalala)
+🌐 [LinkedIn](https://www.linkedin.com/in/bheki-tshabalala-b19058284)  
+💻 [GitHub](https://github.com/bhekitshabalala)
 
 ---
 
 > _"Color is a power which directly influences the soul." – Wassily Kandinsky_
-
-
